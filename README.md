@@ -2,7 +2,8 @@
 
 Um aplicativo de calculadora web elegante e moderno com uma bela interface de gradiente, suportando operações aritméticas básicas e cálculos de porcentagem.
 
-Mostrar imagem
+
+![Imagem do projeto](https://raw.githubusercontent.com/danielly-pedrini/Nelly-calculadora/e6c3ee1f1edbf23060a154e3a406d0ec12ec23a4/assets/README%20Calculadora.PNG)
 
 
 <h2> Características </h2>
